@@ -1,17 +1,17 @@
-# Deploy AtomSpace Builder
+# MORK AtomSpace Builder
 
 ### Quick Start
 
 1. **Clone the repository with submodules:**
 
 ```bash
-git clone --recursive https://github.com/dawit-melka/deploy-atomspace-builder.git
+git clone --recursive https://github.com/rejuve-bio/MORK-atomspace-builder.git
 ```
 
 2. **Navigate into the project folder:**
 
 ```bash
-cd deploy-atomspace-builder
+cd MORK-atomspace-builder
 ```
 
 3. **Make the script executable:**
