@@ -19,3 +19,7 @@ run-ui:
 down:
 	docker compose down -v
 	docker rm -f ui || true
+
+mork:
+	docker compose --env-file env/atomspace-builder.env -f docker-compose.mork.yml up --build -d
+
