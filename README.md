@@ -17,13 +17,13 @@ cd MORK-atomspace-builder
 3. **Make the script executable:**
 
 ```bash
-chmod +x run.sh
+chmod +x run-mork.sh
 ```
 
 4. **Run the script:**
 
 ```bash
-./run.sh
+./run-mork.sh
 ```
 
 ---
