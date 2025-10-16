@@ -15,12 +15,11 @@ cd MORK-atomspace-builder
 ```
 3. **Deployment Options:**
 
-   3.1 Option 1:
+   **3.1 Option 1:**
 ```bash
 make mork
 ```
-
-  3.2 Option 2:
+  **3.2 Option 2:**
 ```bash
 chmod +x run-mork.sh
 
