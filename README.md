@@ -13,20 +13,19 @@ git clone --recursive https://github.com/rejuve-bio/MORK-atomspace-builder.git
 ```bash
 cd MORK-atomspace-builder
 ```
+3. **Deployment Options:**
 
-3. **Make the script executable:**
+   3.1 Option 1:
+```bash
+make mork
+```
 
+  3.2 Option 2:
 ```bash
 chmod +x run-mork.sh
-```
 
-4. **Run the script:**
-
-```bash
 ./run-mork.sh
 ```
-
----
 
 ### Optional
 
