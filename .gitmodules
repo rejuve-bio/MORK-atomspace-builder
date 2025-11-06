@@ -9,3 +9,7 @@
 	path = annotation-tool
 	url = https://github.com/yisehak-awm/annotation-tool.git
 	branch = writer
+[submodule "MORK"]
+	path = MORK
+	url = https://github.com/DeazStar/MORK.git
+	branch = server
